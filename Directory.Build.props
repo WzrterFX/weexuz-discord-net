@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <BaseIntermediateOutputPath>$(SolutionDir)cache</BaseIntermediateOutputPath>
+  </PropertyGroup>
+</Project>
